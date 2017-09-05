@@ -1,4 +1,4 @@
-# Hecontributing in any project which is actually working for the betterment of the people around me llo-World
+#Hello World
 My first repository
 
 Hello Earthlings
